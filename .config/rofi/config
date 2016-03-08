@@ -1,0 +1,21 @@
+rofi.bg:                #1a1a1c
+rofi.bg-active:         #1a1a1c
+rofi.bg-urgent:         #1a1a1c
+rofi.bgalt:             #1a1a1c
+rofi.bc:                #285590
+rofi.bw:                0
+rofi.fg:                #8c8c8c
+rofi.fg-active:         #8c8c8c
+rofi.hlbg:              #1a1a1c
+rofi.hlbg-active:       #1a1a1c
+rofi.hlbg-urgent:       #1a1a1c
+rofi.hlfg:              #ffffff
+rofi.hlfg-active:       #ffffff
+rofi.hlfg-urgent:       #ffffff
+rofi.opacity:           85
+rofi.hide-scrollbar:    true
+rofi.lines:             15
+rofi.separator-style:   none
+rofi.fullscreen:        true
+rofi.padding:           250
+rofi.font:              Hack 12
