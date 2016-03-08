@@ -1,0 +1,28 @@
+!cosmos
+ 
+! Black + DarkGray
+*color0:    #0a0a0a
+*color8:    #6a6a6a
+! DarkRed + Red
+*color1:    #dc1e35
+*color9:    #f9455d
+! DarkGreen + Green
+!*color2:    #ffac1c
+!*color10:   #ffbe4b
+*color2:    #0e8a4f
+*color10:   #2eb879
+! DarkYellow + Yellow
+*color3:    #eab93d
+*color11:   #ffdc5c
+! DarkBlue + Blue
+*color4:    #1f63ae
+*color12:   #408ae6
+! DarkMagenta + Magenta
+*color5:    #7a56bf
+*color13:   #ae81ff
+! DarkCyan + Cyan
+*color6:    #7eaad6
+*color14:   #99ccff
+! LightGray + White
+*color7:    #a6a6a6
+*color15:   #fdfdfd
